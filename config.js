@@ -6,7 +6,7 @@
 // Informations personnelles affichées dans le header
 export const PROFILE_INFO = {
   name: 'Vincent Gaston',
-  title: 'Game Developer & Full Stack Developer',
+  title: 'Software - Full Stack - Game Developer',
   email: 'vincent.gaston@epitech.eu',
   //phone: '+33 6 12 34 56 78',
   // URL de l'image de bannière (remplacez par votre propre image)
